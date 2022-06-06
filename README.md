@@ -9,9 +9,9 @@ This is an open-source program for creating machine learning programs. The proce
     $ pip install ml-engine
 ```
 
-# [Documentation](https://microlia.readthedocs.io/en/latest/?)
+# [Documentation](https://ml_engine.readthedocs.io/en/latest/?)
 
-For technical details and an example of how to implement ml-engine, check out the [Documentation](https://microlia.readthedocs.io/en/latest/?).
+For technical details and an example of how to implement ml-engine, check out the [Documentation](https://ml_engine.readthedocs.io/en/latest/?).
 
 
 # How to Contribute?
